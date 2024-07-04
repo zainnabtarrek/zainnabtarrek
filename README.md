@@ -1,12 +1,15 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://news.microsoft.com/wp-content/uploads/prod/sites/460/2018/02/AI-Banner-1.png))] (https://zainnabtarrek.io)
 <h1 align="center">It's Zainab</h1>
 <h3 align="center">A passionate Computer Science and AI student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainnabtarrek" alt="zainnabtarrek" /></a> </p>
-
 - 🌱 I’m currently learning **Deep learning and computer vision**
 
-- 📫 How to reach me **zainnabtarrek"gmail.com**
+- 👯 I’m looking to collaborate on **inspiring machine learning and data science projects**
+
+- 🤝 I’m looking for help with **making our daily life easier with ethical AI**
+
+- 💬 Ask me about **Data analysis**
+
+- 📫 How to reach me **zainnabtarrek@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
