@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://news.microsoft.com/wp-content/uploads/prod/sites/460/2018/02/AI-Banner-1.png))]
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://news.microsoft.com/wp-content/uploads/prod/sites/460/2018/02/AI-Banner-1.png))] (https://zainnabtarrek.io)
 <h1 align="center">It's Zainab</h1>
 <h3 align="center">A passionate Computer Science and AI student</h3>
 
