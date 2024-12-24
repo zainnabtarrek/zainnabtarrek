@@ -4,8 +4,6 @@
 
 - 🤝 I’m looking for help with **making our daily life easier with ethical AI**
 
-- 💬 Ask me about **Data analysis**
-
 - 📫 How to reach me **zainnabtarrek@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
