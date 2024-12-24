@@ -1,6 +1,3 @@
-<h1 align="center">It's Zainab</h1>
-<h3 align="center">A passionate Computer Science and AI student</h3>
-
 - 🌱 I’m currently learning **Deep learning and computer vision**
 
 - 👯 I’m looking to collaborate on **inspiring machine learning and data science projects**
