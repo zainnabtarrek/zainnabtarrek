@@ -1,8 +1,6 @@
-- 🌱 I’m currently learning **Deep learning and computer vision**
+- 🌱 Currently Focusing on **Deep learning and computer vision**
 
-- 👯 I’m looking to collaborate on **inspiring machine learning and data science projects**
-
-- 🤝 I’m looking for help with **making our daily life easier with ethical AI**
+- 👯 Looking to collaborate on **inspiring machine learning and data science projects**
 
 - 📫 How to reach me **zainnabtarrek@gmail.com**
 
