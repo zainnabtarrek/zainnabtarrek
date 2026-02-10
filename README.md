@@ -5,7 +5,7 @@
 
 ### 🌱 What I’m focusing on now
 
-* **AI Engineering** with a strong focus on *AI Agents**
+* **AI Engineering** with a strong focus on **AI Agents**
 ---
 
 ### 🧠 What I build
