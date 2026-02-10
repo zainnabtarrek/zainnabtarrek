@@ -16,8 +16,6 @@ I build AI products from **raw data to real users**:
 * Training and fine tuning models
 * Building **AI agents** that reason, plan, and act
 * Turning models into **systems** that actually help people get things done
-
-I don’t know everything, but then what's learning new things really about ?
 ---
 
 ### 👯 Open to collaborate on
